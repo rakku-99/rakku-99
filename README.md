@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rakku-99
+- 👋 Hi, I’m Rakesh ( @rakku-99)
 - 👀 I’m interested in learning data science
-- 🌱 I’m currently learning pyhton
-- 💞️ I’m looking to collaborate on Pyhton and SQL
+- 🌱 I’m currently learning ML
+- 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me www.linkedin.com/in/rakeshranjan-nitjsr
 
 
