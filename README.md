@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning data science
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on Data Science Projects
-- 📫 How to reach me www.linkedin.com/in/rakeshranjan-nitjsr
+- 📫 How to reach me https://www.linkedin.com/in/rakeshranjan-nitjsr
 
 
 <!---
