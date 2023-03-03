@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me https://www.linkedin.com/in/rakeshranjan-nitjsr
 
-<img width="638" alt="image" src="https://user-images.githubusercontent.com/108047278/222764000-4bf2d735-efcb-49fa-8434-290b40a9ab71.png">
-
+Languages and Tools:
+docker mongodb oracle pandas postgresql python scikit_learn seaborn aws
 
 
 <!---
